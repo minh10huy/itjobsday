@@ -160,7 +160,7 @@ body,ul,li {
 
 #menu .menu_right {
 	float: right;
-	margin-right: 0px;
+	margin-right: 10px;
 }
 
 #menu li .align_right { /* Rounded Corners */

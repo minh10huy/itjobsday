@@ -29,7 +29,26 @@ class SiteController extends Controller
 	{
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
-		$this->render('index');
+		// $this->render('index');
+		$model=new Newsletter;
+		
+		// if it is ajax validation request
+		if(isset($_POST['ajax']) && $_POST['ajax']==='login-form')
+		{
+			echo CActiveForm::validate($model);
+			Yii::app()->end();
+		}
+
+		// collect user input data
+		if(isset($_POST['Newsletter']))
+		{
+			$model->attributes=$_POST['Newsletter'];
+			// validate user input and redirect to the previous page if valid
+			if($model->save())
+				return true;
+		}
+		// display the login form
+		$this->render('index',array('model'=>$model));
 	}
 
 	/**
@@ -45,7 +64,6 @@ class SiteController extends Controller
 				$this->render('error', $error);
 		}
 	}
-
 	/**
 	 * Displays the contact page
 	 */

@@ -4,24 +4,22 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="language" content="en" />
-
-<!-- blueprint CSS framework -->
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css"
-	media="screen, projection" />
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css"
-	media="print" />
+<!-- blueprint CSS framework 
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
+<!-- Bootstrap Framework -->
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css" media="screen" />
 <!--[if lt IE 8]>
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
 	<![endif]-->
 
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/menu.css" />
+<!-- <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" /> -->
+<!-- <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" /> -->
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/menu.css" />
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/script/jquery-1.8.js" type="text/javascript"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/script/bootstrap.js" type="text/javascript"></script>
+
 
 <title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
@@ -29,10 +27,6 @@
 <body>
 	<div id="header">
 		<a href="<?php echo Yii::app()->createUrl('site/index'); ?>" id='logo'><span></span></a>
-		<div>
-			<span>Đăng ký nhận công việc mới hằng ngày</span>
-			<input type="text" id='newjob' name='newjob' />
-		</div>
 	</div>
 	<!-- header -->
 	<div id="mainmenu">
@@ -50,21 +44,7 @@
 			));	?>
 		</div>
 	</div>
-	<div class="container" id="page">
-
-		<!--
-	<div id="mainmenu">
-		<?php $this->widget('zii.widgets.CMenu',array(
-			'items'=>array(
-				array('label'=>'Home', 'url'=>array('/site/index')),
-				array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-				array('label'=>'Contact', 'url'=>array('/site/contact')),
-				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
-				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
-			),
-		)); ?>
-	</div><!-- mainmenu -->
-
+	<div class="container">
 		<?php if(isset($this->breadcrumbs)):?>
 		<?php $this->widget('zii.widgets.CBreadcrumbs', array(
 			'links'=>$this->breadcrumbs,
