@@ -28,8 +28,11 @@
 
 <body>
 	<div id="header">
-		<a href="<?php echo Yii::app()->createUrl('site/index'); ?>" id='logo'><span></span>
-		</a>
+		<a href="<?php echo Yii::app()->createUrl('site/index'); ?>" id='logo'><span></span></a>
+		<div>
+			<span>Đăng ký nhận công việc mới hằng ngày</span>
+			<input type="text" id='newjob' name='newjob' />
+		</div>
 	</div>
 	<!-- header -->
 	<div id="mainmenu">
