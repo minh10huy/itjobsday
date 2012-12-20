@@ -15,7 +15,7 @@ body,ul,li {
 #menu {
 	list-style: none;
 	height: 43px;
-	width: 960px;
+	width: 940px;
 	margin: 0 auto;
 	/*padding: 0px 20px 0px 20px;*/
 	/* Rounded Corners */
@@ -40,7 +40,7 @@ body,ul,li {
 	text-align: center;
 	position: relative;
 	padding: 4px 10px 4px 10px;
-	margin-right: 30px;
+	margin-right: 20px;
 	margin-top: 7px;
 	border: none;
 }

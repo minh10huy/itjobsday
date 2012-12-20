@@ -3015,3 +3015,1897 @@ Stack trace:
 REQUEST_URI=/index.php/
 in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (34)
 in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:12:47 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:30)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (30)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:12:48 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:30)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (30)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:12:49 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:30)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (30)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:12:49 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:30)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (30)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:14:14 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:30)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (30)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 02:49:29 [error] [php] Use of undefined constant dropdown - assumed 'dropdown' (C:\wamp\www\itjobsday.com\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 03:20:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/login".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('user/login')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/user/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/index
+---
+2012/12/19 04:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/index
+---
+2012/12/19 04:24:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/index
+---
+2012/12/19 04:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 04:27:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/employee/login
+---
+2012/12/19 05:40:39 [error] [php] Invalid argument supplied for foreach() (C:\wamp\yii\framework\zii\widgets\CMenu.php:255)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(148): CMenu->init()
+#1 C:\wamp\yii\framework\web\CBaseController.php(173): SiteController->createWidget()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(46): SiteController->widget()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(116): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (46)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (116)
+2012/12/19 05:40:40 [error] [php] Invalid argument supplied for foreach() (C:\wamp\yii\framework\zii\widgets\CMenu.php:255)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(148): CMenu->init()
+#1 C:\wamp\yii\framework\web\CBaseController.php(173): SiteController->createWidget()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(46): SiteController->widget()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(116): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (46)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (116)
+2012/12/19 05:40:41 [error] [php] Invalid argument supplied for foreach() (C:\wamp\yii\framework\zii\widgets\CMenu.php:255)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(148): CMenu->init()
+#1 C:\wamp\yii\framework\web\CBaseController.php(173): SiteController->createWidget()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(46): SiteController->widget()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(116): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (46)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (116)
+2012/12/19 05:43:23 [error] [php] Invalid argument supplied for foreach() (C:\wamp\yii\framework\zii\widgets\CMenu.php:255)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(148): CMenu->init()
+#1 C:\wamp\yii\framework\web\CBaseController.php(173): SiteController->createWidget()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(46): SiteController->widget()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(116): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (46)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (116)
+2012/12/19 05:44:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/employee/login
+---
+2012/12/19 05:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 05:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 05:46:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/login
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/employee/login
+---
+2012/12/19 05:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/employee/login
+---
+2012/12/19 05:46:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+---
+2012/12/19 05:46:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+---
+2012/12/19 05:49:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+---
+2012/12/19 05:49:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<a onclick="$(&quot;".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('<a onclick="$(&...')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/%3Ca%20onclick=%22$(&quot;
+---
+2012/12/19 06:00:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "$".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('$')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('$')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/$')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/$
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 06:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "$".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('$')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('$')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/$')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/$
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/$
+---
+2012/12/19 06:00:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "$".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('$')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('$')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/$')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/$
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/$
+---
+2012/12/19 06:00:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "$".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('$')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('$')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/$')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/$
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/$
+---
+2012/12/19 07:23:07 [error] [exception.CException] exception 'CException' with message 'Property "Newsletter.username" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('username')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Newsletter), 'username')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(Newsletter), 'username', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(Newsletter), 'username', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\site\index.php(58): CActiveForm->textField(Object(Newsletter), 'username')
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#16 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/index')
+#17 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/index
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 07:23:08 [error] [exception.CException] exception 'CException' with message 'Property "Newsletter.username" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('username')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Newsletter), 'username')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(Newsletter), 'username', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(Newsletter), 'username', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\site\index.php(58): CActiveForm->textField(Object(Newsletter), 'username')
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#16 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/index')
+#17 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/index
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 07:23:09 [error] [exception.CException] exception 'CException' with message 'Property "Newsletter.username" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('username')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Newsletter), 'username')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(Newsletter), 'username', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(Newsletter), 'username', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\site\index.php(58): CActiveForm->textField(Object(Newsletter), 'username')
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#16 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/index')
+#17 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/index
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 07:23:10 [error] [exception.CException] exception 'CException' with message 'Property "Newsletter.username" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('username')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Newsletter), 'username')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(Newsletter), 'username', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(Newsletter), 'username', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\site\index.php(58): CActiveForm->textField(Object(Newsletter), 'username')
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#16 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/index')
+#17 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/index
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 07:24:11 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:14)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (14)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 07:24:13 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:14)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (14)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/19 07:24:37 [error] [exception.CException] exception 'CException' with message 'Property "Newsletter.username" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('username')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Newsletter), 'username')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1217): CHtml::activeInputField('text', Object(Newsletter), 'username', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(658): CHtml::activeTextField(Object(Newsletter), 'username', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\site\index.php(58): CActiveForm->textField(Object(Newsletter), 'username')
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#16 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/index')
+#17 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/itjobsday.com/index.php/site/index
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/19 09:20:57 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\wamp\yii\framework\web\helpers\CHtml.php:85)
+Stack trace:
+#0 C:\wamp\yii\framework\web\helpers\CHtml.php(140): renderAttributes()
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(551): tag()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(107): label()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (107)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/19 09:20:58 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\wamp\yii\framework\web\helpers\CHtml.php:85)
+Stack trace:
+#0 C:\wamp\yii\framework\web\helpers\CHtml.php(140): renderAttributes()
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(551): tag()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(107): label()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (107)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/19 09:20:59 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\wamp\yii\framework\web\helpers\CHtml.php:85)
+Stack trace:
+#0 C:\wamp\yii\framework\web\helpers\CHtml.php(140): renderAttributes()
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(551): tag()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(107): label()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (107)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/19 09:20:59 [error] [php] htmlspecialchars() expects parameter 1 to be string, array given (C:\wamp\yii\framework\web\helpers\CHtml.php:85)
+Stack trace:
+#0 C:\wamp\yii\framework\web\helpers\CHtml.php(140): renderAttributes()
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(551): tag()
+#2 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(107): label()
+#3 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#4 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#5 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#6 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#7 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#8 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#9 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#10 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#13 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#14 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#15 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#16 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#17 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#18 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (107)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/20 06:09:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 06:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 06:09:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 06:20:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 06:25:20 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:113)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (113)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/20 06:25:21 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:113)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (113)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/20 06:25:22 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:113)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(51): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (113)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (51)
+2012/12/20 06:48:25 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:14)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=13559860984592
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (14)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/20 06:48:52 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:14)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/index
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (14)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/20 06:59:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employee/create".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/create')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/itjobsday.com/index.php/employee/create
+HTTP_REFERER=http://localhost/itjobsday.com/index.php/site/login
+---
+2012/12/20 07:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 07:23:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/%5BYOUR%20ACTION%5D
+---
+2012/12/20 07:23:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/%5BYOUR%20ACTION%5D
+---
+2012/12/20 07:23:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/%5BYOUR%20ACTION%5D
+---
+2012/12/20 07:24:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "[YOUR ACTION]".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('[YOUR ACTION]')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('[YOUR ACTION]')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/[YOUR ACTI...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/%5BYOUR%20ACTION%5D
+HTTP_REFERER=http://itjobsday.com/index.php/site/%5BYOUR%20ACTION%5D
+---
+2012/12/20 07:24:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee
+HTTP_REFERER=http://itjobsday.com/index.php/site/%5BYOUR%20ACTION%5D
+---
+2012/12/20 07:25:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 07:25:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/i...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 07:26:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/i...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 07:27:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/i...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/index
+---
+2012/12/20 07:28:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/i...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/index
+---
+2012/12/20 07:30:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/e...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/employee/index
+---
+2012/12/20 07:30:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/favicon.ico".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('images/favicon....')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/images/favicon.ico
+---
+2012/12/20 07:30:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/favicon.ico".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('images/favicon....')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/images/favicon.ico
+---
+2012/12/20 07:30:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "employee".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('employee')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('employee')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/employee/e...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/employee/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/employee/index
+---
+2012/12/20 07:42:55 [error] [exception.CException] exception 'CException' with message 'SiteController contains improperly nested widget tags in its view "C:\wamp\www\itjobsday.com\protected\views//layouts/main.php". A CActiveForm widget does not have an endWidget() call.' in C:\wamp\yii\framework\web\CBaseController.php:102
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(97): CController->render('login', Array)
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#12 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#13 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/login')
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php/site/login
+HTTP_REFERER=http://itjobsday.com/index.php/site/login
+---
+2012/12/20 07:54:10 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/itjobsday.com/index.php
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 07:54:27 [error] [exception.CException] exception 'CException' with message 'SiteController contains improperly nested widget tags in its view "C:\wamp\www\itjobsday.com\protected\views//layouts/main.php". A CActiveForm widget does not have an endWidget() call.' in C:\wamp\yii\framework\web\CBaseController.php:102
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): CController->render('index')
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#12 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#13 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/itjobsday.com/index.php
+---
+2012/12/20 08:02:22 [error] [php] Undefined variable: dataProvider (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(97): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (97)
+2012/12/20 08:04:44 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(97): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (97)
+2012/12/20 08:04:46 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(97): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLogin()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/login
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (97)
+2012/12/20 08:04:49 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 08:09:00 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 08:09:02 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 08:09:02 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 08:09:10 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:120)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): SiteController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): SiteController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#13 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#14 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#15 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#16 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (120)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column1.php (6)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+2012/12/20 08:11:50 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\index.php:31)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/
+in C:\wamp\www\itjobsday.com\protected\views\site\index.php (31)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (32)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/20 08:42:04 [error] [exception.CException] exception 'CException' with message 'Alias "../employee/index.php" is invalid. Make sure it points to an existing directory or file.' in C:\wamp\yii\framework\YiiBase.php:343
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(112): YiiBase::import('../employee/ind...')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="spa...')
+#5 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="spa...')
+#6 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#7 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#8 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): CBaseController->endContent()
+#9 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#10 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#11 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#12 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#13 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#14 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#23 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#24 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 08:42:14 [error] [exception.CException] exception 'CException' with message 'Alias ".../employee/index.php" is invalid. Make sure it points to an existing directory or file.' in C:\wamp\yii\framework\YiiBase.php:343
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(112): YiiBase::import('.../employee/in...')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="spa...')
+#5 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="spa...')
+#6 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#7 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#8 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): CBaseController->endContent()
+#9 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#10 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#11 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#12 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#13 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#14 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#23 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#24 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 08:42:16 [error] [exception.CException] exception 'CException' with message 'Alias ".../employee/index.php" is invalid. Make sure it points to an existing directory or file.' in C:\wamp\yii\framework\YiiBase.php:343
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(112): YiiBase::import('.../employee/in...')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="spa...')
+#5 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="spa...')
+#6 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#7 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#8 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): CBaseController->endContent()
+#9 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#10 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#11 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#12 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#13 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#14 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#23 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#24 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 08:42:21 [error] [exception.CException] exception 'CException' with message 'Alias "/employee/index.php" is invalid. Make sure it points to an existing directory or file.' in C:\wamp\yii\framework\YiiBase.php:343
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\layouts\main.php(112): YiiBase::import('/employee/index...')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="spa...')
+#5 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="spa...')
+#6 C:\wamp\yii\framework\web\CBaseController.php(207): COutputProcessor->run()
+#7 C:\wamp\yii\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#8 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): CBaseController->endContent()
+#9 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#10 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#11 C:\wamp\yii\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#12 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#13 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#14 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#23 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#24 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 08:44:55 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:45:01 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:45:27 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:45:28 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:46:12 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:46:13 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:46:14 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:46:21 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 08:46:22 [error] [php] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#2 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#3 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#4 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#5 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#6 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#7 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#9 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 09:04:32 [error] [php] Use of undefined constant application - assumed 'application' (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#13 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#14 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#15 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#16 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#17 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#18 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 09:04:34 [error] [php] Use of undefined constant application - assumed 'application' (C:\wamp\www\itjobsday.com\protected\views\layouts\main.php:112)
+Stack trace:
+#0 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(77): EmployeeController->renderFile()
+#1 C:\wamp\yii\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate()
+#2 C:\wamp\yii\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput()
+#3 C:\wamp\yii\framework\web\CBaseController.php(207): CContentDecorator->run()
+#4 C:\wamp\yii\framework\web\CBaseController.php(301): EmployeeController->endWidget()
+#5 C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php(22): EmployeeController->endContent()
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require()
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): EmployeeController->renderInternal()
+#8 C:\wamp\yii\framework\web\CController.php(785): EmployeeController->renderFile()
+#9 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): EmployeeController->render()
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#13 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#14 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#15 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#16 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#17 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#18 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/
+in C:\wamp\www\itjobsday.com\protected\views\layouts\main.php (112)
+in C:\wamp\www\itjobsday.com\protected\views\layouts\column2.php (22)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (130)
+2012/12/20 09:12:02 [error] [exception.CException] exception 'CException' with message 'Property "Employee.password" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('password')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('password')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Employee), 'password')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1351): CHtml::activeInputField('password', Object(Employee), 'password', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(688): CHtml::activePasswordField(Object(Employee), 'password', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(32): CActiveForm->passwordField(Object(Employee), 'password', Array)
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 09:14:06 [error] [exception.CException] exception 'CException' with message 'Property "Employee.password" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('password')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('password')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Employee), 'password')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1351): CHtml::activeInputField('password', Object(Employee), 'password', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(688): CHtml::activePasswordField(Object(Employee), 'password', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(32): CActiveForm->passwordField(Object(Employee), 'password', Array)
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 09:14:07 [error] [exception.CException] exception 'CException' with message 'Property "Employee.password" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('password')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CActiveRecord->__get('password')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(Employee), 'password')
+#3 C:\wamp\yii\framework\web\helpers\CHtml.php(1351): CHtml::activeInputField('password', Object(Employee), 'password', Array)
+#4 C:\wamp\yii\framework\web\widgets\CActiveForm.php(688): CHtml::activePasswordField(Object(Employee), 'password', Array)
+#5 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(32): CActiveForm->passwordField(Object(Employee), 'password', Array)
+#6 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#7 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#9 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#10 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(130): CController->render('index', Array)
+#11 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#12 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#14 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#16 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#19 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('')
+#21 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee')
+#22 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/index.php/employee/
+---
+2012/12/20 09:18:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('login')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('login')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/login')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/employee/login
+HTTP_REFERER=http://itjobsday.com/index.php/employee/
+---
+2012/12/20 09:21:51 [error] [exception.CException] exception 'CException' with message 'Property "LoginForm.passwd" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\yii\framework\web\helpers\CHtml.php(2158): CComponent->__get('passwd')
+#1 C:\wamp\yii\framework\web\helpers\CHtml.php(1887): CHtml::resolveValue(Object(LoginForm), 'passwd')
+#2 C:\wamp\yii\framework\web\helpers\CHtml.php(1351): CHtml::activeInputField('password', Object(LoginForm), 'passwd', Array)
+#3 C:\wamp\yii\framework\web\widgets\CActiveForm.php(688): CHtml::activePasswordField(Object(LoginForm), 'passwd', Array)
+#4 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(32): CActiveForm->passwordField(Object(LoginForm), 'passwd', Array)
+#5 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#6 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#7 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#8 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#9 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(146): CController->render('index', Array)
+#10 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#11 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#12 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#13 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#14 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#15 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#16 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#17 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#18 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#20 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/index')
+#21 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#23 {main}
+REQUEST_URI=/index.php/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
+2012/12/20 09:25:52 [error] [php] Undefined variable: dataProvider (C:\wamp\www\itjobsday.com\protected\views\employee\index.php:18)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): EmployeeController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): EmployeeController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(146): EmployeeController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): EmployeeController->runAction()
+#6 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#8 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): EmployeeController->filterAccessControl()
+#9 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#10 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\yii\framework\web\CController.php(266): EmployeeController->runActionWithFilters()
+#12 C:\wamp\yii\framework\web\CWebApplication.php(283): EmployeeController->run()
+#13 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#14 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/employee/index
+in C:\wamp\www\itjobsday.com\protected\views\employee\index.php (18)
+in C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php (146)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/20 09:27:22 [error] [exception.CException] exception 'CException' with message 'CActiveForm and its behaviors do not have a method or closure named "submit".' in C:\wamp\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(28): CComponent->__call('submit', Array)
+#1 C:\wamp\www\itjobsday.com\protected\views\employee\index.php(28): CActiveForm->submit('submit')
+#2 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#3 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#5 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#6 C:\wamp\www\itjobsday.com\protected\controllers\EmployeeController.php(146): CController->render('index', Array)
+#7 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): EmployeeController->actionIndex()
+#8 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#9 C:\wamp\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 C:\wamp\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#12 C:\wamp\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\wamp\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\wamp\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('index')
+#17 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('employee/index')
+#18 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/index.php/employee/index
+HTTP_REFERER=http://itjobsday.com/index.php/site/index
+---
