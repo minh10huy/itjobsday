@@ -122,27 +122,9 @@ class EmployeeController extends Controller
 	 */
 	public function actionIndex()
 	{
-		// $dataProvider=new CActiveDataProvider('Employee');
-		$model = new LoginForm();
-	
-		if(isset($_POST['ajax']) && $_POST['ajax']==='login-form')
-		{
-			echo CActiveForm::validate($model);
-			Yii::app()->end();
-		}
-
-		// collect user input data
-		if(isset($_POST['LoginForm']))
-		{
-			$model->attributes=$_POST['LoginForm'];
-			// validate user input and redirect to the previous page if valid
-			if($model->validate() && $model->login())
-				$this->redirect(Yii::app()->user->returnUrl);
-		}		
-		
+		$dataProvider=new CActiveDataProvider('Employee');
 		$this->render('index',array(
-			//'dataProvider'=>$dataProvider,
-			'model'=>$model,
+			'dataProvider'=>$dataProvider,
 		));
 	}
 

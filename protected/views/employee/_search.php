@@ -32,23 +32,18 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'passwd'); ?>
-		<?php echo $form->passwordField($model,'passwd',array('size'=>32,'maxlength'=>32)); ?>
-	</div>
-
-	<div class="row">
 		<?php echo $form->label($model,'title'); ?>
 		<?php echo $form->textField($model,'title',array('size'=>3,'maxlength'=>3)); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'fname'); ?>
-		<?php echo $form->textField($model,'fname',array('size'=>50,'maxlength'=>50)); ?>
+		<?php echo $form->label($model,'firt_name'); ?>
+		<?php echo $form->textField($model,'firt_name',array('size'=>50,'maxlength'=>50)); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'sname'); ?>
-		<?php echo $form->textField($model,'sname',array('size'=>50,'maxlength'=>50)); ?>
+		<?php echo $form->label($model,'last_name'); ?>
+		<?php echo $form->textField($model,'last_name',array('size'=>50,'maxlength'=>50)); ?>
 	</div>
 
 	<div class="row">

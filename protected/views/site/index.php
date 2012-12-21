@@ -17,9 +17,6 @@ $this->pageTitle=Yii::app()->name;
 	</div>
 </div>
  -->
- 
- 
-
 <h1>
 	Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?> </i>
 </h1>

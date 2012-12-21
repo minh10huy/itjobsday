@@ -52,56 +52,30 @@
 	height:100%;
 	cursor:pointer;
 }
-#fb {
-	background:url(../images/fb.jpg) no-repeat left center;
-	margin: 5px;
-	height: 25px;
-}
-#go {
-	background:url(../images/go.jpg) no-repeat left center;
-	margin: 5px;
-	height: 25px;
-}
-#ya {
-	background:url(../images/ya.png) no-repeat left center;
-	margin: 5px;
-	height: 25px;
-}
-/*
-#h_logo {
+.social-icon { 
+	margin: 3px;
+	width: 32px;
+	height: 32px;
 	float: left;
-	width: 400px;
-	height: 80px;
 }
-#h_email_search {
-	float: left;
-	width: 540px;
-	heigth: 80px;
-}
-*/
-/*
-#signEmail {
-	position: absolute;
-	top: 0px;
-	right: 0px;
-}
-*/
-#lostpass {
+.facebook {background:url(../images/facebook.png) no-repeat left center;}
+.google {background:url(../images/google.png) no-repeat left center;}
+.yahoo {background:url(../images/yahoo.png) no-repeat left center;}
+.lostpass {
 	float: left;
 	width: 110px;
-	padding: 5px 0 5px 5px;
+	padding: 10px 0 5px 10px;
 }
-#btnSign {
+.btnSign {
 	float: left;
 	width: 100px;
 }
-#otheracc {
+.otheracc {
 	float: left;
 	width: 200px;
 }
-#imgFGY {
-	float: left;
-	width: 200px;
+.imgFGY {
+	float: left; 
 }
 .breadcrumbs {
 	margin-top: 55px;

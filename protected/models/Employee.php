@@ -8,10 +8,10 @@
  * @property string $extra_id
  * @property string $email_address
  * @property string $username
- * @property string $passwd
+ * @property string $password
  * @property string $title
- * @property string $fname
- * @property string $sname
+ * @property string $firt_name
+ * @property string $last_name
  * @property string $address
  * @property string $address2
  * @property string $city
@@ -56,13 +56,12 @@ class Employee extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('email_address, username, passwd, title, fname, sname, address, address2, post_code, phone_number, fk_career_degree_id, actkey', 'required'),
 			array('fk_career_degree_id', 'numerical', 'integerOnly'=>true),
 			array('extra_id, username, date_register, last_login', 'length', 'max'=>30),
 			array('email_address, city', 'length', 'max'=>100),
-			array('passwd, actkey', 'length', 'max'=>32),
+			array('password, actkey', 'length', 'max'=>32),
 			array('title', 'length', 'max'=>3),
-			array('fname, sname, address, address2, county, state_province', 'length', 'max'=>50),
+			array('firt_name, last_name, address, address2, county, state_province', 'length', 'max'=>50),
 			array('country, phone_number', 'length', 'max'=>11),
 			array('post_code', 'length', 'max'=>8),
 			array('admin_comments', 'length', 'max'=>255),
@@ -70,7 +69,7 @@ class Employee extends CActiveRecord
 			array('is_active', 'length', 'max'=>1),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, extra_id, email_address, username, passwd, title, fname, sname, address, address2, city, county, state_province, country, post_code, phone_number, fk_career_degree_id, date_register, last_login, actkey, admin_comments, employee_status, is_active', 'safe', 'on'=>'search'),
+			array('id, extra_id, email_address, username, password, title, firt_name, last_name, address, address2, city, county, state_province, country, post_code, phone_number, fk_career_degree_id, date_register, last_login, actkey, admin_comments, employee_status, is_active', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -95,10 +94,10 @@ class Employee extends CActiveRecord
 			'extra_id' => 'Extra',
 			'email_address' => 'Email Address',
 			'username' => 'Username',
-			'passwd' => 'Passwd',
+			'password' => 'Password',
 			'title' => 'Title',
-			'fname' => 'Fname',
-			'sname' => 'Sname',
+			'firt_name' => 'Firt Name',
+			'last_name' => 'Last Name',
 			'address' => 'Address',
 			'address2' => 'Address2',
 			'city' => 'City',
@@ -132,10 +131,10 @@ class Employee extends CActiveRecord
 		$criteria->compare('extra_id',$this->extra_id,true);
 		$criteria->compare('email_address',$this->email_address,true);
 		$criteria->compare('username',$this->username,true);
-		$criteria->compare('passwd',$this->passwd,true);
+		$criteria->compare('password',$this->password,true);
 		$criteria->compare('title',$this->title,true);
-		$criteria->compare('fname',$this->fname,true);
-		$criteria->compare('sname',$this->sname,true);
+		$criteria->compare('firt_name',$this->firt_name,true);
+		$criteria->compare('last_name',$this->last_name,true);
 		$criteria->compare('address',$this->address,true);
 		$criteria->compare('address2',$this->address2,true);
 		$criteria->compare('city',$this->city,true);

@@ -13,21 +13,8 @@ $this->menu=array(
 ?>
 
 <h1>Employees</h1>
- 
-<div class="form">
-<?php $form=$this->beginWidget('CActiveForm', array(
-	'id'=>'login-form',
-	'enableClientValidation'=>true,
-	'clientOptions'=>array(
-		'validateOnSubmit'=>true,
-),
+
+<?php $this->widget('zii.widgets.CListView', array(
+	'dataProvider'=>$dataProvider,
+	'itemView'=>'_view',
 )); ?>
-
-<?php echo $form->textField($model, 'username', array('id'=>'LoginForm_username', 'name'=>'LoginForm[username]', 'size'=>'30', 'style'=>'margin-bottom: 15px', 'placeholder'=>'Tên đăng nhập'));?>
-<?php echo $form->error($model,'username'); ?>
-<?php echo $form->passwordField($model, 'password', array('id'=>'LoginForm_password', 'name'=>'LoginForm[password]', 'size'=>'30', 'style'=>'margin-bottom: 15px', 'placeholder'=>'Mật khẩu'));?>
-<?php echo CHtml::submitButton('Login'); ?>
-
-<?php $this->endWidget();?>
-
- 
