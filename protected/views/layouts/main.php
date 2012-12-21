@@ -110,8 +110,6 @@
 						<li class="dropdown menu_right"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Đăng Nhập <strong class="caret"></strong> </a>
 							<div class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
 								<!-- Login form here -->
-								
-								
 								<form action="<?php echo Yii::app()->createUrl('employee/index'); ?>" method="post" accept-charset="UTF-8">
 									<input id="LoginForm_username" style="margin-bottom: 15px;" type="text" name="LoginForm[username]" size="30" placeholder="Tên đăng nhập"/> 
 									<input id="LoginForm_password" style="margin-bottom: 15px;" type="password" name="LoginForm[password]" size="30" placeholder="Mật khẩu"/> 
