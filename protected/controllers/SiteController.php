@@ -96,7 +96,12 @@ class SiteController extends Controller
 		// display the login form
 		$this->render('login',array('model'=>$model));
 	}
-
+	/*
+	 * Lost password screen
+	 */
+	public function actionLostpassword(){
+		$this->render('lostpassword');
+	}
 	/**
 	 * Logs out the current user and redirect to homepage.
 	 */

@@ -39,6 +39,7 @@
 	</div>
 	 
 	<!-- header -->
+	<div class="fullmask"></div>
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
@@ -81,7 +82,7 @@
 										<?php echo CHtml::submitButton('Đăng Nhập', array('class'=>'btn btn-primary', 'style'=>'float: left; width: 100%; height: 32px; font-size: 13px; margin-right: 10px;'));?>
 									</div>
 									<div class='lostpass'>
-										<?php echo CHtml::link('[Quên mật khẩu]', '#');?>
+										<?php echo CHtml::link('[Quên mật khẩu]', Yii::app()->createUrl('site/lostpassword'));?>
 									</div>
 									<div class='otheracc'>
 										<?php echo CHtml::label('Hoặc bằng tài khoản khác', '', array('style'=>'margin: 5px; color: #004ACC;'));?>

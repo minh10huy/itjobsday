@@ -1324,3 +1324,14 @@
 [Fri Dec 21 14:01:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/img, referer: http://itjobsday.com/css/bootstrap.css
 [Fri Dec 21 14:02:05 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/img, referer: http://itjobsday.com/css/bootstrap.css
 [Fri Dec 21 14:44:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php/site/index
+[Mon Dec 24 12:43:52 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php
+[Mon Dec 24 12:43:52 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Mon Dec 24 12:43:52 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Mon Dec 24 14:10:20 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:34 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:34 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:10:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
+[Mon Dec 24 14:44:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php/site/index

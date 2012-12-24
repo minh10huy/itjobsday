@@ -56,12 +56,27 @@ body,ul,li {
 	/* Rounded corners */
 	-moz-border-radius: 5px 5px 5px 5px;
 	-webkit-border-radius: 5px 5px 5px 5px;
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;	
 }
-
+.forceClass {
+	border: 1px solid #777777;
+	padding: 4px 9px 4px 9px;
+	/* Background color and gradients */
+	background: #F4F4F4;
+	background: -moz-linear-gradient(top, #F4F4F4, #EEEEEE);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F4F4F4),
+		to(#EEEEEE) );
+	/* Rounded corners */
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;	
+	
+	color: #161616;
+	text-shadow: 1px 1px 1px #ffffff;
+}
 #menu li a {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 	color: #EEEEEE;
 	display: block;
 	outline: 0;

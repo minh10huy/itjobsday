@@ -642,6 +642,7 @@
         var $el = $(element).on('click.dropdown.data-api', this.toggle)
         $('html').on('click.dropdown.data-api', function () {
           $el.parent().removeClass('open')
+          $el.parent().removeClass('forceHover');
         })
       }
 
@@ -664,6 +665,7 @@
 
       if (!isActive) {
         $parent.toggleClass('open')
+        $parent.toggleClass('forceClass')
       }
 
       $this.focus()
@@ -714,6 +716,7 @@
   function clearMenus() {
     $(toggle).each(function () {
       getParent($(this)).removeClass('open')
+      getParent($(this)).removeClass('forceClass')
     })
   }
 

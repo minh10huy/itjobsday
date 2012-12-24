@@ -5376,3 +5376,232 @@ Stack trace:
 REQUEST_URI=/index.php/createCV/create
 HTTP_REFERER=http://itjobsday.com/index.php
 ---
+2012/12/24 07:00:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:00:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:01:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:01:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('')
+#1 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://itjobsday.com/index.php
+---
+2012/12/24 07:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lostpassword.php".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('lostpassword.ph...')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword.ph...')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/lostpassword.php
+---
+2012/12/24 07:12:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lostpassword.php".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('lostpassword.ph...')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword.ph...')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/lostpassword.php
+---
+2012/12/24 07:12:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lostpassword.php".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('lostpassword.ph...')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword.ph...')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/lostpassword.php
+---
+2012/12/24 07:12:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lostpassword.php".' in C:\wamp\yii\framework\web\CController.php:484
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(271): CController->missingAction('lostpassword.ph...')
+#1 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword.ph...')
+#2 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#3 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/lostpassword.php
+---
