@@ -5605,3 +5605,400 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/index.php/site/lostpassword.php
 ---
+2012/12/25 03:01:16 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php:5)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(103): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php (5)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (103)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:01:17 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php:5)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(103): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php (5)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (103)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:01:17 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php:5)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(103): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php (5)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (103)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:28 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:29 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:30 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:30 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:31 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:31 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:31 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:44:32 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:17 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:18 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:19 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:19 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:19 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:45:20 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:104)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (104)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:05 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:06 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:07 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:07 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:07 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:08 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:08 [error] [php] Indirect modification of overloaded property SiteController::$pageTitle has no effect (C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php:105)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#1 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#2 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#3 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#4 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (105)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:48:19 [error] [php] Undefined variable: model (C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php:5)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#1 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#2 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): SiteController->render()
+#3 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#4 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#6 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#7 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#9 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#10 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php (5)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (106)
+in C:\wamp\www\itjobsday.com\index.php (13)
+2012/12/25 03:49:14 [error] [exception.CException] exception 'CException' with message 'Property "LostPasswordForm.hasError" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php(5): CComponent->__get('hasError')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('lostpassword', Array, true)
+#5 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): CController->render('lostpassword', Array)
+#6 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#7 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword')
+#11 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#12 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/index.php/site/lostpassword
+HTTP_REFERER=http://itjobsday.com/index.php/site/lostpassword
+---
+2012/12/25 03:49:15 [error] [exception.CException] exception 'CException' with message 'Property "LostPasswordForm.hasError" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php(5): CComponent->__get('hasError')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('lostpassword', Array, true)
+#5 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): CController->render('lostpassword', Array)
+#6 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#7 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword')
+#11 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#12 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/index.php/site/lostpassword
+HTTP_REFERER=http://itjobsday.com/index.php/site/lostpassword
+---
+2012/12/25 03:49:15 [error] [exception.CException] exception 'CException' with message 'Property "LostPasswordForm.hasError" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php(5): CComponent->__get('hasError')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('lostpassword', Array, true)
+#5 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): CController->render('lostpassword', Array)
+#6 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#7 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword')
+#11 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#12 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/index.php/site/lostpassword
+HTTP_REFERER=http://itjobsday.com/index.php/site/lostpassword
+---
+2012/12/25 03:49:16 [error] [exception.CException] exception 'CException' with message 'Property "LostPasswordForm.hasError" is not defined.' in C:\wamp\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php(5): CComponent->__get('hasError')
+#1 C:\wamp\yii\framework\web\CBaseController.php(127): require('C:\wamp\www\itj...')
+#2 C:\wamp\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\itj...', Array, true)
+#3 C:\wamp\yii\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\itj...', Array, true)
+#4 C:\wamp\yii\framework\web\CController.php(783): CController->renderPartial('lostpassword', Array, true)
+#5 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): CController->render('lostpassword', Array)
+#6 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#7 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 C:\wamp\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\yii\framework\web\CWebApplication.php(283): CController->run('lostpassword')
+#11 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/lostpasswo...')
+#12 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 C:\wamp\www\itjobsday.com\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/index.php/site/lostpassword
+HTTP_REFERER=http://itjobsday.com/index.php/site/lostpassword
+---
+2012/12/25 03:55:13 [error] [php] Missing argument 2 for YiiBase::t(), called in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php on line 2 and defined (C:\wamp\yii\framework\YiiBase.php:573)
+Stack trace:
+#0 C:\wamp\yii\framework\web\CBaseController.php(96): SiteController->renderInternal()
+#1 C:\wamp\yii\framework\web\CController.php(870): SiteController->renderFile()
+#2 C:\wamp\yii\framework\web\CController.php(783): SiteController->renderPartial()
+#3 C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php(106): SiteController->render()
+#4 C:\wamp\yii\framework\web\actions\CInlineAction.php(50): SiteController->actionLostpassword()
+#5 C:\wamp\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#6 C:\wamp\yii\framework\web\CController.php(287): SiteController->runAction()
+#7 C:\wamp\yii\framework\web\CController.php(266): SiteController->runActionWithFilters()
+#8 C:\wamp\yii\framework\web\CWebApplication.php(283): SiteController->run()
+#9 C:\wamp\yii\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#10 C:\wamp\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\wamp\www\itjobsday.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php/site/lostpassword
+in C:\wamp\www\itjobsday.com\protected\views\site\lostpassword.php (2)
+in C:\wamp\www\itjobsday.com\protected\controllers\SiteController.php (106)
+in C:\wamp\www\itjobsday.com\index.php (13)

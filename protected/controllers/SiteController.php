@@ -100,7 +100,18 @@ class SiteController extends Controller
 	 * Lost password screen
 	 */
 	public function actionLostpassword(){
-		$this->render('lostpassword');
+		$model = new LostPasswordForm();
+		if(isset($_POST['LostPasswordForm'])){
+			
+		}
+		
+		
+		
+		
+		
+		//$this->pageTitle[] = Yii::t('index', 'Quên Mật Khẩu');
+		$this->pageTitle['Quên Mật Khẩu'];
+		$this->render('lostpassword', array('model'=>$model));
 	}
 	/**
 	 * Logs out the current user and redirect to homepage.

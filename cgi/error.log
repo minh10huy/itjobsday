@@ -1335,3 +1335,6 @@
 [Mon Dec 24 14:10:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
 [Mon Dec 24 14:10:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/site, referer: http://itjobsday.com/index.php
 [Mon Dec 24 14:44:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php/site/index
+[Tue Dec 25 08:58:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Tue Dec 25 08:58:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Tue Dec 25 09:10:15 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php/site/index
