@@ -1,6 +1,6 @@
 <?php
 /* @var $this EmployeeController */
-/* @var $model Employee */
+/* @var $model EmployeeForm */
 /* @var $form CActiveForm */
 ?>
 

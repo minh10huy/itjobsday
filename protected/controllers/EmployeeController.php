@@ -62,14 +62,14 @@ class EmployeeController extends Controller
 	 */
 	public function actionCreate()
 	{
-		$model=new Employee;
+		$model=new EmployeeForm;
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Employee']))
+		if(isset($_POST['EmployeeForm']))
 		{
-			$model->attributes=$_POST['Employee'];
+			$model->attributes=$_POST['EmployeeForm'];
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
@@ -91,9 +91,9 @@ class EmployeeController extends Controller
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Employee']))
+		if(isset($_POST['EmployeeForm']))
 		{
-			$model->attributes=$_POST['Employee'];
+			$model->attributes=$_POST['EmployeeForm'];
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));
 		}
@@ -122,7 +122,7 @@ class EmployeeController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('Employee');
+		$dataProvider=new CActiveDataProvider('EmployeeForm');
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
 		));
@@ -133,10 +133,10 @@ class EmployeeController extends Controller
 	 */
 	public function actionAdmin()
 	{
-		$model=new Employee('search');
+		$model=new EmployeeForm('search');
 		$model->unsetAttributes();  // clear any default values
-		if(isset($_GET['Employee']))
-			$model->attributes=$_GET['Employee'];
+		if(isset($_GET['EmployeeForm']))
+			$model->attributes=$_GET['EmployeeForm'];
 
 		$this->render('admin',array(
 			'model'=>$model,
@@ -150,7 +150,7 @@ class EmployeeController extends Controller
 	 */
 	public function loadModel($id)
 	{
-		$model=Employee::model()->findByPk($id);
+		$model=EmployeeForm::model()->findByPk($id);
 		if($model===null)
 			throw new CHttpException(404,'The requested page does not exist.');
 		return $model;
@@ -162,7 +162,7 @@ class EmployeeController extends Controller
 	 */
 	protected function performAjaxValidation($model)
 	{
-		if(isset($_POST['ajax']) && $_POST['ajax']==='employee-form')
+		if(isset($_POST['ajax']) && $_POST['ajax']==='employee-form-form')
 		{
 			echo CActiveForm::validate($model);
 			Yii::app()->end();

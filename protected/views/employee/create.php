@@ -1,18 +1,18 @@
 <?php
 /* @var $this EmployeeController */
-/* @var $model Employee */
+/* @var $model EmployeeForm */
 
 $this->breadcrumbs=array(
-	'Employees'=>array('index'),
+	'Employee Forms'=>array('index'),
 	'Create',
 );
 
 $this->menu=array(
-	array('label'=>'List Employee', 'url'=>array('index')),
-	array('label'=>'Manage Employee', 'url'=>array('admin')),
+	array('label'=>'List EmployeeForm', 'url'=>array('index')),
+	array('label'=>'Manage EmployeeForm', 'url'=>array('admin')),
 );
 ?>
 
-<h1>Create Employee</h1>
+<h1>Create EmployeeForm</h1>
 
 <?php echo $this->renderPartial('_form', array('model'=>$model)); ?>

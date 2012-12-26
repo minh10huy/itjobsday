@@ -1338,3 +1338,35 @@
 [Tue Dec 25 08:58:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
 [Tue Dec 25 08:58:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
 [Tue Dec 25 09:10:15 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/users, referer: http://itjobsday.com/index.php/site/index
+[Wed Dec 26 08:54:02 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Wed Dec 26 13:22:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in C:\\wamp\\www\\itjobsday.com\\protected\\views\\site\\lostpassword.php on line 14, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\itjobsday.com\\index.php:0, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   2. CApplication->run() C:\\wamp\\www\\itjobsday.com\\index.php:13, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   3. CWebApplication->processRequest() C:\\wamp\\yii\\framework\\base\\CApplication.php:162, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   4. CWebApplication->runController() C:\\wamp\\yii\\framework\\web\\CWebApplication.php:142, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   5. CController->run() C:\\wamp\\yii\\framework\\web\\CWebApplication.php:283, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   6. CController->runActionWithFilters() C:\\wamp\\yii\\framework\\web\\CController.php:266, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   7. CController->runAction() C:\\wamp\\yii\\framework\\web\\CController.php:287, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   8. CInlineAction->runWithParams() C:\\wamp\\yii\\framework\\web\\CController.php:309, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP   9. SiteController->actionLostpassword() C:\\wamp\\yii\\framework\\web\\actions\\CInlineAction.php:50, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP  10. CController->render() C:\\wamp\\www\\itjobsday.com\\protected\\controllers\\SiteController.php:151, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP  11. CController->renderPartial() C:\\wamp\\yii\\framework\\web\\CController.php:783, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP  12. CBaseController->renderFile() C:\\wamp\\yii\\framework\\web\\CController.php:870, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:34 2012] [error] [client 127.0.0.1] PHP  13. CBaseController->renderInternal() C:\\wamp\\yii\\framework\\web\\CBaseController.php:96, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in C:\\wamp\\www\\itjobsday.com\\protected\\views\\site\\lostpassword.php on line 14, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\itjobsday.com\\index.php:0, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   2. CApplication->run() C:\\wamp\\www\\itjobsday.com\\index.php:13, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   3. CWebApplication->processRequest() C:\\wamp\\yii\\framework\\base\\CApplication.php:162, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   4. CWebApplication->runController() C:\\wamp\\yii\\framework\\web\\CWebApplication.php:142, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   5. CController->run() C:\\wamp\\yii\\framework\\web\\CWebApplication.php:283, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   6. CController->runActionWithFilters() C:\\wamp\\yii\\framework\\web\\CController.php:266, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   7. CController->runAction() C:\\wamp\\yii\\framework\\web\\CController.php:287, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   8. CInlineAction->runWithParams() C:\\wamp\\yii\\framework\\web\\CController.php:309, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP   9. SiteController->actionLostpassword() C:\\wamp\\yii\\framework\\web\\actions\\CInlineAction.php:50, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP  10. CController->render() C:\\wamp\\www\\itjobsday.com\\protected\\controllers\\SiteController.php:151, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP  11. CController->renderPartial() C:\\wamp\\yii\\framework\\web\\CController.php:783, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP  12. CBaseController->renderFile() C:\\wamp\\yii\\framework\\web\\CController.php:870, referer: http://itjobsday.com/index.php/site/lostpassword
+[Wed Dec 26 15:56:35 2012] [error] [client 127.0.0.1] PHP  13. CBaseController->renderInternal() C:\\wamp\\yii\\framework\\web\\CBaseController.php:96, referer: http://itjobsday.com/index.php/site/lostpassword

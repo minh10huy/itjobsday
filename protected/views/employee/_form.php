@@ -1,13 +1,13 @@
 <?php
 /* @var $this EmployeeController */
-/* @var $model Employee */
+/* @var $model EmployeeForm */
 /* @var $form CActiveForm */
 ?>
 
 <div class="form">
 
 <?php $form=$this->beginWidget('CActiveForm', array(
-	'id'=>'employee-form',
+	'id'=>'employee-form-form',
 	'enableAjaxValidation'=>false,
 )); ?>
 

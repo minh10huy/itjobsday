@@ -28,12 +28,12 @@
  * @property string $employee_status
  * @property string $is_active
  */
-class Employee extends CActiveRecord
+class EmployeeForm extends CActiveRecord
 {
 	/**
 	 * Returns the static model of the specified AR class.
 	 * @param string $className active record class name.
-	 * @return Employee the static model class
+	 * @return EmployeeForm the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{

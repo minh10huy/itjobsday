@@ -10,7 +10,7 @@ class LostPasswordForm extends CFormModel {
 	/*
 	 * @var string - captcha
 	 */
-	public $verifycode;
+	public $verifyCode;
 	/*
 	 * Table data rules
 	 * 
@@ -22,7 +22,7 @@ class LostPasswordForm extends CFormModel {
 			array('email', 'email'),
 			array('email', 'exist', 'className'=>'Members', 'message'=>Yii::t('lostpassword', 'Email không tồn tại trong hệ thống! Vui lòng kiểm tra lại')),
 			array('email', 'length', 'min'=>'3', 'max'=>'55'),
-			array('verifycode', 'captcha'),
+			array('verifyCode', 'captcha'),
 		);
 	}
 	/*

@@ -1,21 +1,21 @@
 <?php
 /* @var $this EmployeeController */
-/* @var $model Employee */
+/* @var $model EmployeeForm */
 
 $this->breadcrumbs=array(
-	'Employees'=>array('index'),
+	'Employee Forms'=>array('index'),
 	$model->title=>array('view','id'=>$model->id),
 	'Update',
 );
 
 $this->menu=array(
-	array('label'=>'List Employee', 'url'=>array('index')),
-	array('label'=>'Create Employee', 'url'=>array('create')),
-	array('label'=>'View Employee', 'url'=>array('view', 'id'=>$model->id)),
-	array('label'=>'Manage Employee', 'url'=>array('admin')),
+	array('label'=>'List EmployeeForm', 'url'=>array('index')),
+	array('label'=>'Create EmployeeForm', 'url'=>array('create')),
+	array('label'=>'View EmployeeForm', 'url'=>array('view', 'id'=>$model->id)),
+	array('label'=>'Manage EmployeeForm', 'url'=>array('admin')),
 );
 ?>
 
-<h1>Update Employee <?php echo $model->id; ?></h1>
+<h1>Update EmployeeForm <?php echo $model->id; ?></h1>
 
 <?php echo $this->renderPartial('_form', array('model'=>$model)); ?>
