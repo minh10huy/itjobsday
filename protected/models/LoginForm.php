@@ -21,15 +21,15 @@ class LoginForm extends CFormModel
 	public function rules()
 	{
 		return array(
-		// username and password are required
-		array('username, password', 'required'),
-		// rememberMe needs to be a boolean
-		array('rememberMe', 'boolean'),
-		// password needs to be authenticated
-		array('password', 'authenticate'),
+			// username and password are required
+			array('username, password', 'required'),
+			// rememberMe needs to be a boolean
+			array('rememberMe', 'boolean'),
+			// password needs to be authenticated
+			array('password', 'authenticate'),
 		);
 	}
-	
+
 	/**
 	 * Declares attribute labels.
 	 */
@@ -50,7 +50,7 @@ class LoginForm extends CFormModel
 		{
 			$this->_identity=new UserIdentity($this->username,$this->password);
 			if(!$this->_identity->authenticate())
-			$this->addError('password','Incorrect username or password.');
+				$this->addError('password','Incorrect username or password.');
 		}
 	}
 
@@ -72,6 +72,6 @@ class LoginForm extends CFormModel
 			return true;
 		}
 		else
-		return false;
+			return false;
 	}
 }

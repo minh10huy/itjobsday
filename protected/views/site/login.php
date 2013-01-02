@@ -1,3 +1,4 @@
+<?php $this->redirect(Yii::app()->user->returnUrl); ?> 
 <?php
 /* @var $this SiteController */
 /* @var $model LoginForm */
@@ -25,7 +26,6 @@ $this->breadcrumbs=array(
 	<p class="note">
 		Fields with <span class="required">*</span> are required.
 	</p>
-
 	<div class="row">
 	<?php echo $form->labelEx($model,'username'); ?>
 	<?php echo $form->textField($model,'username'); ?>
@@ -63,7 +63,7 @@ $this->breadcrumbs=array(
 </div>
 <!-- form -->
 
-
+ 
 
 
 

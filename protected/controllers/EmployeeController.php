@@ -39,9 +39,17 @@ class EmployeeController extends Controller
 				'actions'=>array('admin','delete'),
 				'users'=>array('admin'),
 			),
+			array('allow', // allow admin user to perform 'admin' and 'delete' actions
+				'actions'=>array('test'),
+				'users'=>array('admin'),
+			),
 			array('deny',  // deny all users
 				'users'=>array('*'),
 			),
+			array('allow',
+				'actions' => array('view'),
+				'roles' => array('member'),
+			), 
 		);
 	}
 
@@ -167,5 +175,9 @@ class EmployeeController extends Controller
 			echo CActiveForm::validate($model);
 			Yii::app()->end();
 		}
+	}
+	public function actionTest()
+	{
+		echo 'sdf';exit;
 	}
 }

@@ -5,41 +5,22 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="language" content="en" />
 <link href="<?php echo Yii::app()->request->baseUrl; ?>../../../images/favicon.ico" type="image/ico" rel="shortcut icon" />
-<!-- blueprint CSS framework 
-<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
-<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
-<!-- Bootstrap Framework -->
-<link rel="stylesheet" type="text/css"
-	href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css"
-	media="screen" />
-<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
-	<![endif]-->
-
-<!-- <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" /> -->
-<!-- <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" /> -->
-<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" />
-<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/menu.css" />
-<script src="<?php echo Yii::app()->request->baseUrl; ?>/script/jquery-1.8.js" type="text/javascript"></script>
-<script src="<?php echo Yii::app()->request->baseUrl; ?>/script/bootstrap.js" type="text/javascript"></script>
-
+<?php  
+  $baseUrl = Yii::app()->baseUrl; 
+  $cs = Yii::app()->getClientScript();
+  // style
+  $cs->registerCssFile($baseUrl.'/css/bootstrap.css');
+  $cs->registerCssFile($baseUrl.'/css/style.css');
+  $cs->registerCssFile($baseUrl.'/css/menu.css');
+  // javascript
+  $cs->registerScriptFile($baseUrl.'/script/jquery-1.8.js');
+  $cs->registerScriptFile($baseUrl.'/script/bootstrap.js');
+?>
 <title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 
 <body>
-	<!-- 
-	<div id="header">
-		<div id="h_logo">
-			<a href="<?php echo Yii::app()->createUrl('site/index'); ?>" id='logo'><span></span> </a>
-		</div>
-		<div id="h_email_search">
-			<span></span>
-		</div>
-		
-	</div>
-	 
-	<!-- header -->
-	<div class="fullmask"></div>
+<div class="fullmask"></div>
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
@@ -65,13 +46,14 @@
 						)));
 					?>
 				<!-- The drop down menu -->
-					<ul class="nav pull-right">
+					<ul class="nav pull-right" id="rightpad">
 						<?php if(Yii::app()->user->isGuest): ?>
 						<li class="menu_right"><a href="/users/sign_up"><?php echo Yii::t('index', 'Đăng Ký')?> </a></li>
 						<!-- <li class="divider-vertical"></li> -->
 						<li class="dropdown menu_right"><a class="" href="#" data-toggle="dropdown"><?php echo Yii::t('index', 'Đăng Nhập')?> <strong class="caret"></strong></a>
 							<div class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
-								<!-- Login form here -->
+								<?php Yii::import('application.views.site.login');?>
+								<!-- Login form here 
 								<?php echo CHtml::form(Yii::app()->createUrl('site/login'), 'post', array('accept-charset'=>'UTF-8'));?>
 									<?php echo CHtml::textField('LoginForm[username]', '', array('id'=> 'LoginForm_username','style'=>'margin-bottom: 15px', 'site'=>'30', 'placeholder'=>'Tên đăng nhập'));?>
 									<?php echo CHtml::passwordField('LoginForm[password]', '', array('id'=> 'LoginForm_password', 'style'=>'margin-bottom: 15px', 'size'=>'30', 'placeholder'=>'Mật khẩu'));?>
@@ -82,7 +64,7 @@
 										<?php echo CHtml::submitButton('Đăng Nhập', array('class'=>'btn btn-primary', 'style'=>'float: left; width: 100%; height: 32px; font-size: 13px; margin-right: 10px;'));?>
 									</div>
 									<div class='lostpass'>
-										<?php echo CHtml::link('[Quên mật khẩu]', Yii::app()->createUrl('site/lostpassword'));?>
+										<?php echo CHtml::link('[Quên mật khẩu]', Yii::app()->createUrl('site/lostpassword'), array('style'=>'color: #015B86;'));?>
 									</div>
 									<div class='otheracc'>
 										<?php echo CHtml::label('Hoặc bằng tài khoản khác', '', array('style'=>'margin: 5px; color: #004ACC;'));?>
@@ -93,6 +75,7 @@
 										<?php echo CHtml::link('', Yii::app()->createUrl('site/index'),array('class'=>'social-icon yahoo'));?>
 									</div>
 								<?php echo CHtml::endForm();?>
+								-->
 								<!-- 
 								<form action="<?php //echo Yii::app()->createUrl('employee/index'); ?>" method="post" accept-charset="UTF-8">
 									<input id="LoginForm_username" style="margin-bottom: 15px;" type="text" name="LoginForm[username]" size="30" placeholder="Tên đăng nhập"/> 
@@ -138,14 +121,14 @@
 
 
 <script>
-	$(function() {
+	//$(function() {
 	// Setup drop down menu
-		$('.dropdown-toggle').dropdown();
+		//$('.dropdown-toggle').dropdown();
 		//Fix input element click problem
-		$('.dropdown input, .dropdown label').click(function(e) {
-			e.stopPropagation();
-		});
-	});
+		//$('.dropdown input, .dropdown label').click(function(e) {
+			//e.stopPropagation();
+		//});
+	//});
 </script>
 <script>
 	$(function() {
@@ -164,7 +147,6 @@
 	)); ?>
 		<!-- breadcrumbs -->
 	<?php endif?>
-
 	<?php echo $content; ?>
 
 		<div class="clear"></div>

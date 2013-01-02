@@ -34,6 +34,8 @@ $this->pageTitle=Yii::app()->name;
 		</code></li>
 </ul>
 
+<?php Yii::import('error', true);?>
+
 <p>
 	For more details on how to further develop this application, please
 	read the <a href="http://www.yiiframework.com/doc/">documentation</a>.

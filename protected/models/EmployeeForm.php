@@ -59,7 +59,7 @@ class EmployeeForm extends CActiveRecord
 			array('fk_career_degree_id', 'numerical', 'integerOnly'=>true),
 			array('extra_id, username, date_register, last_login', 'length', 'max'=>30),
 			array('email_address, city', 'length', 'max'=>100),
-			array('password, actkey', 'length', 'max'=>32),
+			array('password, actkey, role', 'length', 'max'=>32),
 			array('title', 'length', 'max'=>3),
 			array('firt_name, last_name, address, address2, county, state_province', 'length', 'max'=>50),
 			array('country, phone_number', 'length', 'max'=>11),
@@ -155,4 +155,11 @@ class EmployeeForm extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+	/**
+	 * Simple yet efficient way for password hashing
+	 */
+	public function hashPassword( $password, $salt )
+	{
+		return sha1( md5($salt) . $password );
+	} 
 }

@@ -32,6 +32,16 @@ return array(
 
 	// application components
 	'components'=>array(
+	
+		'authManager'=>array(
+            'class'=>'AuthManager',
+			'connectionID' => 'db',
+			'itemTable' => 'authitem', //tc_user_auth_item
+			'itemChildTable' => 'authitemchild',
+			'assignmentTable' => 'authassignment',
+			'defaultRoles' => array('guest'), 
+//          'authFile' => 'path'                  // only if necessary
+        ),
 		'user'=>array(
 			// enable cookie-based authentication
 			'allowAutoLogin'=>true,
@@ -44,7 +54,7 @@ return array(
 				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
 				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
 				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
-			),
+			),			
 		),
 		/*
 		'db'=>array(
