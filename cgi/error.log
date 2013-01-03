@@ -1506,3 +1506,4 @@
 [Wed Jan 02 15:25:38 2013] [error] [client 127.0.0.1] PHP  13. LoginForm->authenticate() C:\\wamp\\yii\\framework\\validators\\CInlineValidator.php:43, referer: http://itjobsday.com/index.php/site/index
 [Wed Jan 02 15:25:38 2013] [error] [client 127.0.0.1] PHP  14. UserIdentity->authenticate() C:\\wamp\\www\\itjobsday.com\\protected\\models\\LoginForm.php:86, referer: http://itjobsday.com/index.php/site/index
 [Wed Jan 02 17:01:35 2013] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
+[Thu Jan 03 07:52:06 2013] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/itjobsday.com/favicon.ico
